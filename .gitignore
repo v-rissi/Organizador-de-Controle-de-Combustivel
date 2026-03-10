@@ -32,3 +32,10 @@ settings.json
 relatorio_execucoes.txt
 ultimo_relatorio.html
 history.json
+
+# Arquivos de backup específicos
+Salvamento de ADM12.zip
+icone.ico
+
+# Documentos
+doc/*.docx
